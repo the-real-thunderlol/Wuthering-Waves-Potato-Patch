@@ -8,6 +8,9 @@ The following are the files I've defined in the Potato, Low, Medium settings.
 
 Config Folder: `Wuthering Waves Game\Client\Saved\Config\WindowsNoEditor`
 
+# INTRESTING NOTE:
+Game internal settings from menu dont affect Unreal Engine's External settings. You can mix and match them both.
+
 Files:
 - Engine.ini
 - GameUserSettings.ini
