@@ -31,8 +31,8 @@ GPU: Quadro P1000 (weaker than a GTX 1050 BTW)
 Screen: 1080p @ 60 Hz
 
 #NORMAL (~35 FPS)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6461d92-cd36-47a1-8c37-b23b4d7329c2" />
-<img width="1165" height="913" alt="image" src="https://github.com/user-attachments/assets/620d01b9-8a2c-4511-8a17-034eed03f129" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/492ebf97-35f1-4121-8701-22f647eb5e2d" />
+<img width="1158" height="893" alt="image" src="https://github.com/user-attachments/assets/b63e42ab-26b1-4a8a-b0be-92cfd043eb7c" />
 
 
 # POTATO (~45 FPS)
