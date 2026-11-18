@@ -1,6 +1,6 @@
 # WUTHERING WAVES POTATO PATCH
 
-<img width="750" height="855" alt="image" src="https://github.com/user-attachments/assets/3905b159-b9d7-4569-bc4d-72d883beb7c4" />
+<img width="752" height="840" alt="image" src="https://github.com/user-attachments/assets/97142f14-1464-4405-a236-879f05e43b6f" />
 
 Wuthering waves uses Unreal Engine.
 Unreal Engine creates alot of settings files. And you can safetly modify them (does not change how the game works internally)
