@@ -1,5 +1,5 @@
 import tkinter
-from components import get_path, apply_patch
+from components import get_path, apply_patch, credits
 
 tk = tkinter.Tk()
 
@@ -86,6 +86,13 @@ BUILD_BUTTON4 = tkinter.Button(
     command=lambda: apply_patch.APPLY_DEFAULT(THE_PATH)
 )
 BUILD_BUTTON4.pack(pady=10)
+
+CREDITS_BUTTON = tkinter.Button(
+    tk,
+    text="Credits",
+    command=credits.show_credits
+)
+CREDITS_BUTTON.place(relx=1.0, rely=1.0, x=-10, y=-10, anchor="se")
 
 
 def rungui(SETTINGS_PATH):
