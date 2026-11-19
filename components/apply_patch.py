@@ -1,7 +1,10 @@
 import os
+import sys
+
+BASE_DIR = os.path.dirname(os.path.abspath(sys.argv[0]))
 
 def APPLY_PATCH(SETTINGS_PATH, PATCH_PATH):
-    PATCH_PATH = os.path.dirname(__file__) + "\\" + PATCH_PATH
+    PATCH_PATH = os.path.join(BASE_DIR, PATCH_PATH)
 
     PATCH_PATH = PATCH_PATH.replace("/", "\\")
     SETTINGS_PATH = SETTINGS_PATH.replace("/", "\\")
